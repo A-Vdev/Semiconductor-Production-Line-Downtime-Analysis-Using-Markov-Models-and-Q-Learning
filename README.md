@@ -45,26 +45,19 @@ This project presents a data-driven approach to optimizing maintenance strategie
 
 ---
 
-
-4. View generated plots:
-   - Reward Convergence
-   - Monte Carlo Distributions (Rewards, MTBF, MTTR, Costs)
-
----
-
-## 📊 Example Results
+##  Results
 
 | Metric                         | Value         |
 |---------------------------------|---------------|
-| Average Reward per Episode      | ~245.85       |
-| Success Rate                    | ~97.81%       |
-| Estimated MTBF (Steps)           | ~26.49        |
-| Estimated MTBR (Steps)           | ~25.39        |
-| Average Maintenance Cost/Episode| ~$16.98       |
+| Average Reward per Episode      |  245.85       |
+| Success Rate                    |  97.81%       |
+| Estimated MTBF (Steps)           |  26.49        |
+| Estimated MTBR (Steps)           |  25.39        |
+| Average Maintenance Cost/Episode|  $16.98       |
 
 ---
 
-## 🌍 Future Applications
+## Future Applications
 
 - Smart predictive maintenance scheduling in semiconductor fabs.
 - Integration with real-time IoT and Digital Twin systems.
